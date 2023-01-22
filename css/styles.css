@@ -1,0 +1,16 @@
+body {
+  background: white;
+  font-family: 'Raleway', sans-serif; }
+
+nav {
+  background: #84B736; }
+
+p {
+  display: inline; }
+
+.bg-mydark {
+  background-color: rgba(0, 0, 0, 0.3) !important; }
+
+.carousel-caption {
+  left: 30%;
+  right: 30%; }
