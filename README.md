@@ -15,7 +15,7 @@ Aplikacija je narejena iz sledečih frontend in backend tehnologij: HTML, CSS, B
 
 Za delovanje aplikacije potrebujete PHP in MySQL strežnik. Priporočam uporabo [XAMPP](https://www.apachefriends.org/) strežnika.
 Po namestitvi kopirajte vso vsebino repozitorija v javni strežniški direktorij (v primeru xampp: *XAMPP_INSTALL_DIR/htdocs*). V 
-primeru lokalne namestitve vključite strežnike in dostopajte do aplikacije preko brskalnika na naslovu *http://localhost*.
+primeru lokalne namestitve vključite strežnike in dostopajte do aplikacije preko brskalnika na naslovu *localhost*.
 
 ## Zaslonski posnetki aplikacije
 
