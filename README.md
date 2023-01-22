@@ -18,7 +18,7 @@ Po namestitvi kopirajte vso vsebino repozitorija v javni strežniški direktorij
 primeru lokalne namestitve vključite strežnike in dostopajte do aplikacije preko brskalnika na naslovu [localhost](http://localhost).
 
 ## Zaslonski posnetki aplikacije
-
+***
 ![Scrshot1](screenshots/main-optimized.gif "Homepage")
 ***
 ![Scrshot2](screenshots/buy-optimized.gif "Buying item")
