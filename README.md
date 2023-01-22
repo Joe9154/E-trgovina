@@ -19,5 +19,7 @@ primeru lokalne namestitve vključite strežnike in dostopajte do aplikacije pre
 
 ## Zaslonski posnetki aplikacije
 
+![Scrshot1](screenshots/main-optimized.gif "Homepage")
+![Scrshot1](screenshots/buy-optimized.gif "Buying item")
 
 
